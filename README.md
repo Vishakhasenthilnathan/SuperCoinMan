@@ -2,4 +2,6 @@
 
 A simple game developed using java and libgdx project generator.
 
-![](https://github.com/SuperCoinMan/supercoinman.gif)
+#Game
+
+![](https://github.com/Vishakhasenthilnathan/SuperCoinMan/blob/main/supercoinman.gif)
